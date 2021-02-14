@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>BEEDATA TEST</h1>
+    <h1>BEEDATA</h1>
     <DataTable />
   </div>
 </template>

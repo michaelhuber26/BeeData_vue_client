@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = "http://localhost:5000/api/data/";
+const url = "api/data/";
 
 class DataService {
   // Get Data

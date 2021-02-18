@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = "api/data/";
+const url = "https://gentle-bayou-10294.herokuapp.com/api/data/"; //API Backend
 
 class DataService {
   // Get Data
